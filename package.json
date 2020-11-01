@@ -19,6 +19,8 @@
   "homepage": "https://github.com/andess86/kindle-daily-deals-goodreads-matcher#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "xml2js": "^0.4.23"
   }
 }
