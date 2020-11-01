@@ -1,0 +1,24 @@
+{
+  "name": "kindle-daily-deals-goodreads-matcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andess86/kindle-daily-deals-goodreads-matcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andess86/kindle-daily-deals-goodreads-matcher/issues"
+  },
+  "homepage": "https://github.com/andess86/kindle-daily-deals-goodreads-matcher#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "xml2js": "^0.4.23"
+  }
+}
